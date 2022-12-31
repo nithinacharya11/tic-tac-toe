@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: antiquewhite;
 }
 
 code {
@@ -28,4 +29,32 @@ code {
 .container {
   width: fit-content;
   margin: 100px auto;
+}
+
+.status {
+  text-align: center;
+  margin-top: -60px;
+  font-size: 2rem;
+}
+
+header {
+  text-align: center;
+  margin-top: 50px;
+}
+
+footer {
+  text-align: center;
+  margin-top: 10px;
+}
+
+footer button {
+  background-color: black;
+  color: white;
+  padding: 10px 25px;
+  border-radius: 20px;
+}
+
+.container button {
+  font-size: 3rem;
+  font-weight: 500;
 }
