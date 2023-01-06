@@ -1,4 +1,4 @@
-# tic-tac-toe made using React
+# TIC-TAC-TOE made using React
 
 [Live link](https://effulgent-granita-47a1fd.netlify.app/)
 
